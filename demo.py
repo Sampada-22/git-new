@@ -1,6 +1,3 @@
-print("hellow world")
+print("notebook1")
 
-print("hellow world")
-
-print("connection to git and databricks")
 
